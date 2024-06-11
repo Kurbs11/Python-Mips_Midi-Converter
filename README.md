@@ -1,0 +1,1 @@
+This program leverages MARS' MIDI system calls to generate music. Once running the python script, you are prompted to many selections about each sound. All of them are compiled into midifile.txt and can be copied and run without incident in MARS.
